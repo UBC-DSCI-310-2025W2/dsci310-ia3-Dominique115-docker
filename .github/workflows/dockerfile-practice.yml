@@ -5,7 +5,7 @@ on:
     branches: ["main"]
     paths:
       - "Dockerfile"
-      - ".github/workflows/ia3_docker-image.yml"
+      - ".github/workflows/dockerfile-practice.yml"
   pull_request:
     branches: ["main"]
     paths:
