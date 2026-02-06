@@ -1,4 +1,4 @@
-name: Build and push IA3 Docker image
+name: dockerfile-practice
 
 on:
   push:
